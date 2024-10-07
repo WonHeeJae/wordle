@@ -1,0 +1,37 @@
+footer {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+}
+
+.key-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+
+.key-block {
+  width: 40px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d6da;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.key-sideblock {
+  width: 70px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d6da;
+  border-radius: 3px;
+}

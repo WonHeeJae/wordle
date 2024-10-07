@@ -1,0 +1,30 @@
+.header-setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-Left__img {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-Left__img img {
+  width: 50px;
+  height: 50px;
+}
+
+.header-Right__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-Right__img img {
+  width: 50px;
+  height: 50px;
+}
