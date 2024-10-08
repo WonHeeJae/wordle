@@ -25,4 +25,6 @@ main {
   justify-content: center;
   align-items: center;
   border: 3px solid #d3d6da;
+  font-size: 20px;
+  font-weight: bold;
 }
